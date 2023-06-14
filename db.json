@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Update 1 updated",
+      "price": "2000",
+      "image": "https://picsum.photos/50/50"
+    },
+    {
+      "name": "San pham 4",
+      "price": "200",
+      "image": "https://picsum.photos/50/50",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Hoang trung",
+      "price": "3333",
+      "image": "https://picsum.photos/50/50"
+    },
+    {
+      "id": 7,
+      "name": "Sach 1",
+      "price": "1000",
+      "image": "https://picsum.photos/50/40"
+    }
+  ],
+  "account": []
+}
